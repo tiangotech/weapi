@@ -23,7 +23,7 @@ class test {
 		$url = $this->getHttpHost();
 		
 		die($url);
-		$this->log->error(123);
+		$this->log->error(1);
 		var_dump($rel );
 	}
 
